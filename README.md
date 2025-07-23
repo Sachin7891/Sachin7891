@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Gupta</h1>
+
 <h3 align="center">A passionate Software developer and Cloud Architecture from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin7891&label=Profile%20views&color=0e75b6&style=flat" alt="sachin7891" /> </p>
@@ -10,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS cloud services , Java ,DSA , MERN**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java , Dsa**
 
 - 📫 How to reach me **guptasachin7898@gmail.com**
 
