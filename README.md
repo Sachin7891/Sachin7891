@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🌱 I’m currently learning **AWS cloud services , Java ,DSA , MERN**
-
-- 💬 Ask me about **Java , Dsa**
+- 🌱 I’m currently learning :- **AWS cloud services , Java ,DSA , MERN**
+- 
+- 💬 Ask me about :- **Java**
 
 - 📫 How to reach me **guptasachin7898@gmail.com**
 
